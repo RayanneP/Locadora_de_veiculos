@@ -65,7 +65,7 @@
     </div>
     
     <script>
-        fuction togglePassword(){
+        function togglePassword(){
             let passwordInput = document.getElementById('password');
             passwordInput.type = (passwordInput.type === 'password') ? 'text' : 'password';
         }
