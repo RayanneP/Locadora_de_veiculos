@@ -236,7 +236,7 @@
                                                         </div>
 
                                                         <tr>
-                                    <td>Moto</td>
+                                    <td>Carro</td>
                                     <td>Chevrolet Onix</td>
                                     <td>HBG1F897</td>
                                     <td>
@@ -280,5 +280,6 @@
         </div>
     </div>
 </div>
+<script  src="script.js"></script>
 </body>
 </html>
