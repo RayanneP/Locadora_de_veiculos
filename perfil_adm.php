@@ -104,7 +104,19 @@
                             </label>
                             <input type="number" name="dias_calculo" class="form-control" value="1" required>
                         </div>
+                        <buuton class="btn btn-success w-100" type="submit" name="calcular">Calcular</buuton>
                     </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="mb-0">
+                        Veículos cadastrados
+                    </h4>
                 </div>
             </div>
         </div>
