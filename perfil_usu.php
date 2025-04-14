@@ -41,7 +41,7 @@
     <!--Formulario para add novos veiculos-->
     <div class="row same-height-row">
         <div class="col-md-12">
-            <div class="card-h-100">
+            <div class="card h-100">
                 <div class="card-header">
                     <h4 class="mb-0">
                         Calcular a previsão de aluguel💰
