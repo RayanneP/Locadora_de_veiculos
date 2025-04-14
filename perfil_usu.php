@@ -99,9 +99,9 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Moto</td>
-                                    <td>Honda</td>
-                                    <td>BAC1D80</td>
+                                    <td>Carro</td>
+                                    <td>Celta</td>
+                                    <td>ABC1D567</td>
                                     <td>
                                         <span class="badge bg-success"> Disponível ✅</span>
                                     </td>
@@ -109,15 +109,15 @@
                                 <tr>
                                     <td>Carro</td>
                                     <td>Chevrolet Onix</td>
-                                    <td>GBH5E83</td>
+                                    <td>HBG1F897</td>
                                     <td>
-                                        <span class="badge bg-danger"> Indisponível ❌</span>
+                                        <span class="badge bg-success"> Disponível ✅</span>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Moto</td>
-                                    <td>Yamaha</td>
-                                    <td>LGE2E03</td>
+                                    <td>Kawasaki Ninja 400</td>
+                                    <td>DEF5G677</td>
                                     <td>
                                         <span class="badge bg-danger"> Indisponível ❌</span>
                                     </td>
