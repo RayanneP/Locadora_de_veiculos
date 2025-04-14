@@ -96,7 +96,7 @@
                                     <td>ABC1D567</td>
                                     <td><span class="badge bg-success">Disponível ✅</span></td>
                                     <td>
-                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal">Ver Detalhes</button>
+                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal2">Ver Detalhes</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -105,7 +105,7 @@
                                     <td>HBG1F897</td>
                                     <td><span class="badge bg-success">Disponível ✅</span></td>
                                     <td>
-                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal">Ver Detalhes</button>
+                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal3">Ver Detalhes</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -114,7 +114,7 @@
                                     <td>DEF5G677</td>
                                     <td><span class="badge bg-danger">Indisponível ❌</span></td>
                                     <td>
-                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal">Ver Detalhes</button>
+                                        <button class="btn btn-info btn-sm" data-bs-toggle="modal" data-bs-target="#detalhesModal4">Ver Detalhes</button>
                                     </td>
                                 </tr>
                             </tbody>
@@ -152,7 +152,7 @@
 </div>
 
 <!-- Modal: Detalhes do veículo -->
-<div class="modal fade" id="detalhesModal" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
+<div class="modal fade" id="detalhesModal2" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -172,7 +172,7 @@
 </div>
 
 <!-- Modal: Detalhes do veículo -->
-<div class="modal fade" id="detalhesModal" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
+<div class="modal fade" id="detalhesModal3" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -192,7 +192,7 @@
 </div>
 
 <!-- Modal: Detalhes do veículo -->
-<div class="modal fade" id="detalhesModal" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
+<div class="modal fade" id="detalhesModal4" tabindex="-1" aria-labelledby="detalhesModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
